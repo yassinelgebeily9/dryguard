@@ -1,4 +1,4 @@
-# Dryguard — RFID moisture exploration
+# Dryguard RFID moisture exploration
 
 Can RFID signals help distinguish moisture conditions? This project explores
 public **soil** measurements as an early step toward studying laundry dryness.
@@ -23,46 +23,7 @@ results do not validate a laundry detector.
 - Sessions still differ for every pair. Matching these recorded settings does
   not establish an unchanged physical setup or a causal moisture effect.
 
-## Run it locally
 
-Use Python 3.12. From the project folder, create an environment and install the
-versions used for the verified run (recorded on macOS with Apple Silicon):
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-python -m pip install -r requirements-lock.txt
-python scripts/download_data.py
-jupyter lab
-```
-
-On Windows, activate with `.venv\Scripts\activate` instead. The lock file records
-this tested environment, not a cross-platform guarantee. `requirements.txt`
-contains broader dependency ranges for other compatible environments.
-
-Open `notebooks/01_explore_rfid_moisture.ipynb` and run it from top to bottom.
-In VS Code, select `.venv` as the notebook kernel. Paths work from either the
-project root or the `notebooks` directory.
-
-Raw CSVs are excluded from Git. The downloader restores **66 unique files**
-from a pinned source commit and verifies each file's size and Git blob hash.
-It uses both manifests and downloads the four reused dry files only once.
-It requires internet access for missing or changed files. Once restored,
-the notebook runs offline without RFID hardware.
-
-## Notebook guide
-
-1. Load individual reader events and inspect the columns.
-2. Check labels, missing values and basic consistency.
-3. Summarize each recording using median RSSI and within-recording spread.
-4. In **3a**, inspect the original subset for comparable power and position.
-5. In **3b**, compare the additional matched recordings and their distributions.
-6. Examine session confounding, changing settings and one recording's trace.
-
-Each plot in section 3b is an empirical cumulative distribution: the horizontal
-axis is RSSI and the vertical axis is the fraction of reads at or below that
-strength. Farther right means stronger. These curves describe repeated reads;
-they are not confidence intervals or independent moisture trials.
 
 ## Project files
 
@@ -85,7 +46,7 @@ they are not confidence intervals or independent moisture trials.
 
 ## Limitations and next steps
 
-All explicitly dry-labeled soil filenames in the audited source inventory belong
+All explicitly dry labeled soil filenames in the audited source inventory belong
 to one collection session. The filename audit does not rule out additional dry
 observations under other labels. A random split of reader events would mix reads
 from the same recording between training and testing. Holding out files alone
