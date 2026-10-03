@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use this software in your research, please cite it as below."
+title: "RFID Reader FX7500"
+type: software
+authors:
+  - family-names: "Martínez Benelmekki"
+    given-names: "Nedal"
+    orcid: "https://orcid.org/0009-0003-1955-5006"
+    affiliation: "Wireless Information Networking Group, UAB"
+  - family-names: "Díaz Machado"
+    given-names: "Elvis"
+    orcid: "https://orcid.org/0000-0002-6583-8547"
+    affiliation: "Wireless Information Networking Group, UAB"
+repository-code: "https://github.com/Wireless-Information-Networking/RFID-Reader-FX7500"
+url: "https://github.com/Wireless-Information-Networking/RFID-Reader-FX7500"
+abstract: >-
+  This software provides code, setup instructions, and tools for interacting with the Zebra FX7500 
+  RFID Reader. It includes scripts to enable systematic RFID performance measurements under various 
+  environmental conditions, and data processing scripts using Bayesian Machine Learning Algorithms.
+keywords:
+  - RFID
+  - Zebra FX7500
+  - RFID performance
+  - Bayesian Machine Learning
+  - Signal Processing
+  - MQTT
+  - Wireless Communication
+  - Radio Frequency
+license: MIT
+version: 4.0.0
+date-released: 2025-06-04
+preferred-citation:
+  type: software
+  authors:
+    - family-names: "Martínez Benelmekki"
+      given-names: "Nedal"
+      orcid: "https://orcid.org/0009-0003-1955-5006"
+      affiliation: "Wireless Information Networking Group, UAB"
+    - family-names: "Díaz Machado"
+      given-names: "Elvis"
+      orcid: "https://orcid.org/0000-0002-6583-8547"
+      affiliation: "Wireless Information Networking Group, UAB"
+  title: "RFID Reader FX7500: A Toolkit for RFID Performance Measurements and Analysis"
+  year: 2025
+  url: "https://github.com/Wireless-Information-Networking/RFID-Reader-FX7500"
+  repository-code: "https://github.com/Wireless-Information-Networking/RFID-Reader-FX7500"
+  abstract: >-
+    This software provides a comprehensive toolkit for interacting with the Zebra FX7500 RFID Reader,
+    enabling systematic performance measurements under various environmental conditions. It includes
+    data processing capabilities using Bayesian Machine Learning Algorithms for analyzing RFID signal
+    characteristics and performance metrics.
+  keywords:
+    - RFID
+    - Zebra FX7500
+    - RFID performance
+    - Bayesian Machine Learning
+    - Signal Processing
+    - MQTT
+    - Wireless Communication
+    - Radio Frequency
+  license: MIT
+  version: 4.0.0

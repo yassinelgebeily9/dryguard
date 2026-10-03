@@ -1,0 +1,23 @@
+{
+  "verified_at_utc": "2026-10-03T09:50:26.563785+00:00",
+  "python": "3.12.10",
+  "platform": "macOS-26.6-arm64-arm-64bit",
+  "machine": "arm64",
+  "packages": {
+    "pandas": "2.3.3",
+    "numpy": "2.5.3",
+    "matplotlib": "3.11.2",
+    "jupyterlab": "4.6.4",
+    "ipykernel": "7.4.0",
+    "nbclient": "0.11.0",
+    "certifi": "2026.7.22"
+  },
+  "executed_code_cells": 8,
+  "errors": 0,
+  "execution": "Entire notebook executed in order in a fresh kernel, from notebooks/, after restoring all data into a clean working copy.",
+  "source_commit": "790b419e86b508c38487d679658a8bad266237be",
+  "requirements_lock_sha256": "66b2a7854c5ff554fbc37aa5a6efd37dfc026f6d188fe177d306a3565c31b557",
+  "runtime_notes": [
+    "All eight notebook code cells completed without errors. The sandbox blocked psutil process enumeration during kernel shutdown; this occurred after execution and did not affect saved cell results."
+  ]
+}

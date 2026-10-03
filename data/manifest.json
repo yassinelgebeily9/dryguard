@@ -1,0 +1,427 @@
+{
+  "repository": "https://github.com/Wireless-Information-Networking/RFID-Reader-FX7500",
+  "commit": "790b419e86b508c38487d679658a8bad266237be",
+  "selection": "12 files at evenly spaced indices in lexicographically sorted filenames per named session, restricted to explicit Soil_(Dry)/Soil_(Wet), excluding filenames ending _moving.csv. Exploratory convenience subset, not a benchmark or representative sample. Selection does not use RSSI.",
+  "files": [
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_183717gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Dry).csv",
+      "blob_sha": "16f922a2ce9b8d01411fd38967fcf029a6f9e760",
+      "size_bytes": 189078,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_183717gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_185215gui_Dogbone_Monza_4D_865.7MHz_1.355m_Soil_(Dry).csv",
+      "blob_sha": "3121f322597c331cea21b7454c5dc7059e667434",
+      "size_bytes": 117503,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_185215gui_Dogbone_Monza_4D_865.7MHz_1.355m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_190606gui_Dogbone_Monza_4D_865.7MHz_1.148m_Soil_(Dry).csv",
+      "blob_sha": "d885dbb6a646aa421f0bcf65d8a715ee5dc56775",
+      "size_bytes": 196830,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_190606gui_Dogbone_Monza_4D_865.7MHz_1.148m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_192152gui_Dogbone_Monza_4D_865.7MHz_0.94m_Soil_(Dry).csv",
+      "blob_sha": "840faf4884147efc51791d9c29bec26a3397e663",
+      "size_bytes": 210039,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_192152gui_Dogbone_Monza_4D_865.7MHz_0.94m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_193518gui_Dogbone_Monza_4D_865.7MHz_0.8m_Soil_(Dry).csv",
+      "blob_sha": "d8f371ff1a8db53f5cd26947e059d633b4f6158a",
+      "size_bytes": 196200,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_193518gui_Dogbone_Monza_4D_865.7MHz_0.8m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_195135gui_Dogbone_Monza_4D_865.7MHz_0.597m_Soil_(Dry).csv",
+      "blob_sha": "6b6e68fbc741e1646ebfa519f740c4c648a1227a",
+      "size_bytes": 196383,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_195135gui_Dogbone_Monza_4D_865.7MHz_0.597m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_200654gui_Dogbone_Monza_4D_865.7MHz_0.5529999999999999m_Soil_(Dry).csv",
+      "blob_sha": "87ae12010c227ee231ceb45eb1967b2b41155303",
+      "size_bytes": 205034,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_200654gui_Dogbone_Monza_4D_865.7MHz_0.5529999999999999m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_201833gui_Dogbone_Monza_4D_865.7MHz_0.519m_Soil_(Dry).csv",
+      "blob_sha": "6599fe9027b6abf8408e1abd4881b41e4c79a803",
+      "size_bytes": 196270,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_201833gui_Dogbone_Monza_4D_865.7MHz_0.519m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_203005gui_Dogbone_Monza_4D_865.7MHz_0.478m_Soil_(Dry).csv",
+      "blob_sha": "7b4518cb432b7f4f99db629144dd380f37ef1b2e",
+      "size_bytes": 204099,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_203005gui_Dogbone_Monza_4D_865.7MHz_0.478m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_204133gui_Dogbone_Monza_4D_865.7MHz_0.443m_Soil_(Dry).csv",
+      "blob_sha": "2005f0e73791c4e3d4eba6b1f9638fc09c6c88d3",
+      "size_bytes": 197396,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_204133gui_Dogbone_Monza_4D_865.7MHz_0.443m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_205152gui_Dogbone_Monza_4D_865.7MHz_0.35200000000000004m_Soil_(Dry).csv",
+      "blob_sha": "c48f350b4d558f60066d7c61fcbca3d118260799",
+      "size_bytes": 118541,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_205152gui_Dogbone_Monza_4D_865.7MHz_0.35200000000000004m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-02-28b/20250228_205828gui_Dogbone_Monza_4D_865.7MHz_0.178m_Soil_(Dry).csv",
+      "blob_sha": "e930c11b8c67112b0970db2556b773c1b5be7c49",
+      "size_bytes": 118983,
+      "session": "2025-02-28b",
+      "local_path": "data/raw/2025-02-28b/20250228_205828gui_Dogbone_Monza_4D_865.7MHz_0.178m_Soil_(Dry).csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_120343gui_Dogbone_Monza_4D_865.7MHz_0.183m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "ab3228e6612b8ab48957f91d079f266529bc0bdb",
+      "size_bytes": 190106,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_120343gui_Dogbone_Monza_4D_865.7MHz_0.183m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_120655gui_Dogbone_Monza_4D_865.7MHz_0.249m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "d553b9761d5bbfcf1de159e00da7f58eee94a23a",
+      "size_bytes": 8792,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_120655gui_Dogbone_Monza_4D_865.7MHz_0.249m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_121015gui_Dogbone_Monza_4D_865.7MHz_0.295m_Soil_(Wet)_13.0dBm.csv",
+      "blob_sha": "ce6e493f22e5fb5945697e3cda298cd5ee2d90cf",
+      "size_bytes": 26911,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_121015gui_Dogbone_Monza_4D_865.7MHz_0.295m_Soil_(Wet)_13.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_121420gui_Dogbone_Monza_4D_865.7MHz_0.342m_Soil_(Wet)_18.0dBm.csv",
+      "blob_sha": "637842d1dac6a70ae29cc3d1b1cae63f0e068609",
+      "size_bytes": 195249,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_121420gui_Dogbone_Monza_4D_865.7MHz_0.342m_Soil_(Wet)_18.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_121825gui_Dogbone_Monza_4D_865.7MHz_0.397m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "28d283ce42c6117af5cca1423c77fbdbd1e7dc5d",
+      "size_bytes": 195858,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_121825gui_Dogbone_Monza_4D_865.7MHz_0.397m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_122426gui_Dogbone_Monza_4D_865.7MHz_0.432m_Soil_(Wet)_20.0dBm.csv",
+      "blob_sha": "aa261603acc81816a2bb5a65ff8a9b05b0d97263",
+      "size_bytes": 184364,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_122426gui_Dogbone_Monza_4D_865.7MHz_0.432m_Soil_(Wet)_20.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_122725gui_Dogbone_Monza_4D_865.7MHz_0.442m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "3f6ea6daca902509cea944ba50bf224f9a7ff873",
+      "size_bytes": 205404,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_122725gui_Dogbone_Monza_4D_865.7MHz_0.442m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_123339gui_Dogbone_Monza_4D_865.7MHz_0.458m_Soil_(Wet)_26.0dBm.csv",
+      "blob_sha": "9f059a1a10538436792943d4034965fb9a8489be",
+      "size_bytes": 193428,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_123339gui_Dogbone_Monza_4D_865.7MHz_0.458m_Soil_(Wet)_26.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_123939gui_Dogbone_Monza_4D_865.7MHz_0.471m_Soil_(Wet)_23.0dBm.csv",
+      "blob_sha": "d3c73df561acfcae64fde0d960165f3344910996",
+      "size_bytes": 193917,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_123939gui_Dogbone_Monza_4D_865.7MHz_0.471m_Soil_(Wet)_23.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_124547gui_Dogbone_Monza_4D_865.7MHz_0.499m_Soil_(Wet)_22.0dBm.csv",
+      "blob_sha": "45d0e4e8dce79f5fe089332135c02ec4edeaf150",
+      "size_bytes": 197246,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_124547gui_Dogbone_Monza_4D_865.7MHz_0.499m_Soil_(Wet)_22.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_125155gui_Dogbone_Monza_4D_865.7MHz_0.528m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "61f8dd48dd5b81704f56afbe451052323342d6ab",
+      "size_bytes": 197135,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_125155gui_Dogbone_Monza_4D_865.7MHz_0.528m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06a/20250306_130115gui_Dogbone_Monza_4D_865.7MHz_0.572m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "3afaa15cdd848da1121d96b52e276b6b9238ebb9",
+      "size_bytes": 4547,
+      "session": "2025-03-06a",
+      "local_path": "data/raw/2025-03-06a/20250306_130115gui_Dogbone_Monza_4D_865.7MHz_0.572m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_170946gui_Dogbone_Monza_4D_865.7MHz_0.075m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "663b29ef676b0962b3a74a62b7e16e7c1ec22775",
+      "size_bytes": 184719,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_170946gui_Dogbone_Monza_4D_865.7MHz_0.075m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_171928gui_Dogbone_Monza_4D_865.7MHz_0.199m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "eb56ae1ff68791546c11238bb5f5fcfcb8f23e96",
+      "size_bytes": 195749,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_171928gui_Dogbone_Monza_4D_865.7MHz_0.199m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_172842gui_Dogbone_Monza_4D_865.7MHz_0.342m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "2250ae195f3a11634e3cc6b35d56ff2bcd5936e1",
+      "size_bytes": 199336,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_172842gui_Dogbone_Monza_4D_865.7MHz_0.342m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_173956gui_Dogbone_Monza_4D_865.7MHz_0.415m_Soil_(Wet)_29.0dBm.csv",
+      "blob_sha": "804c6a0bd0e196509193d01ce0ce173c3e8b286c",
+      "size_bytes": 195430,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_173956gui_Dogbone_Monza_4D_865.7MHz_0.415m_Soil_(Wet)_29.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_175013gui_Dogbone_Monza_4D_865.7MHz_0.464m_Soil_(Wet)_18.0dBm.csv",
+      "blob_sha": "4ac8ae92b54d74d9e9609ebd9815ea95766464f4",
+      "size_bytes": 196918,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_175013gui_Dogbone_Monza_4D_865.7MHz_0.464m_Soil_(Wet)_18.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_175832gui_Dogbone_Monza_4D_865.7MHz_0.484m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "48cca52bb673708b21d4a09a734f416193dc88ca",
+      "size_bytes": 195960,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_175832gui_Dogbone_Monza_4D_865.7MHz_0.484m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_180757gui_Dogbone_Monza_4D_865.7MHz_0.528m_Soil_(Wet)_16.0dBm.csv",
+      "blob_sha": "ba964ed32baf6fb3bd3bec9e91faf86f054e2d91",
+      "size_bytes": 198257,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_180757gui_Dogbone_Monza_4D_865.7MHz_0.528m_Soil_(Wet)_16.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_181647gui_Dogbone_Monza_4D_865.7MHz_0.56m_Soil_(Wet)_26.0dBm.csv",
+      "blob_sha": "4e8e12e7b801eae9e08d5a0c6e79a770eb7d7414",
+      "size_bytes": 183859,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_181647gui_Dogbone_Monza_4D_865.7MHz_0.56m_Soil_(Wet)_26.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_182818gui_Dogbone_Monza_4D_865.7MHz_0.598m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "f3f3d2996f596404ce6b2f24e5cca311556ed095",
+      "size_bytes": 196388,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_182818gui_Dogbone_Monza_4D_865.7MHz_0.598m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_184259gui_Dogbone_Monza_4D_865.7MHz_0.849m_Soil_(Wet)_20.0dBm.csv",
+      "blob_sha": "bda235abbe4669e3013d2510e6a7f19baa9474a0",
+      "size_bytes": 161674,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_184259gui_Dogbone_Monza_4D_865.7MHz_0.849m_Soil_(Wet)_20.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_190121gui_Dogbone_Monza_4D_865.7MHz_1.146m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "cf8ecd2b2fee987e6c1437b91d4aa739f7128447",
+      "size_bytes": 5757,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_190121gui_Dogbone_Monza_4D_865.7MHz_1.146m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-06b/20250306_192755gui_Dogbone_Monza_4D_865.7MHz_1.541m_Soil_(Wet)_29.0dBm.csv",
+      "blob_sha": "9c3c4e765ed362cad8b1b73afd94b510f8689c79",
+      "size_bytes": 199275,
+      "session": "2025-03-06b",
+      "local_path": "data/raw/2025-03-06b/20250306_192755gui_Dogbone_Monza_4D_865.7MHz_1.541m_Soil_(Wet)_29.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_125445gui_Dogbone_Monza_4D_865.7MHz_0.093m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "8a24d6a365e35acdf73bf74f54001860fff9a7cd",
+      "size_bytes": 195820,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_125445gui_Dogbone_Monza_4D_865.7MHz_0.093m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_130241gui_Dogbone_Monza_4D_865.7MHz_0.194m_Soil_(Wet)_28.0dBm.csv",
+      "blob_sha": "d517fea51e81d49e44d31a5f82bdd018c7ff4308",
+      "size_bytes": 190886,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_130241gui_Dogbone_Monza_4D_865.7MHz_0.194m_Soil_(Wet)_28.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_131317gui_Dogbone_Monza_4D_865.7MHz_0.345m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "b4284258ce3799b9d386d90ed6cd97e30ce54818",
+      "size_bytes": 196092,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_131317gui_Dogbone_Monza_4D_865.7MHz_0.345m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_132508gui_Dogbone_Monza_4D_865.7MHz_0.435m_Soil_(Wet)_15.0dBm.csv",
+      "blob_sha": "7b9d4fe464aa24bc6eafc5a5c3a9d1eed583e2df",
+      "size_bytes": 189972,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_132508gui_Dogbone_Monza_4D_865.7MHz_0.435m_Soil_(Wet)_15.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_133347gui_Dogbone_Monza_4D_865.7MHz_0.459m_Soil_(Wet)_21.0dBm.csv",
+      "blob_sha": "792a8250fbd3ba3ad5e4dbe7bf03cfe46de10515",
+      "size_bytes": 192696,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_133347gui_Dogbone_Monza_4D_865.7MHz_0.459m_Soil_(Wet)_21.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_134305gui_Dogbone_Monza_4D_865.7MHz_0.484m_Soil_(Wet)_28.0dBm.csv",
+      "blob_sha": "f18847e07460ab3099cecee3ab542c63651d633d",
+      "size_bytes": 196318,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_134305gui_Dogbone_Monza_4D_865.7MHz_0.484m_Soil_(Wet)_28.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_135356gui_Dogbone_Monza_4D_865.7MHz_0.525m_Soil_(Wet)_20.0dBm.csv",
+      "blob_sha": "278a9735ff07b83d245180615e0113f95b450bec",
+      "size_bytes": 196804,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_135356gui_Dogbone_Monza_4D_865.7MHz_0.525m_Soil_(Wet)_20.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_140543gui_Dogbone_Monza_4D_865.7MHz_0.567m_Soil_(Wet)_18.0dBm.csv",
+      "blob_sha": "a3d76ed9777d74d663e61f6e386797f240014664",
+      "size_bytes": 191992,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_140543gui_Dogbone_Monza_4D_865.7MHz_0.567m_Soil_(Wet)_18.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_141751gui_Dogbone_Monza_4D_865.7MHz_0.643m_Soil_(Wet)_22.0dBm.csv",
+      "blob_sha": "50c8cf359d662c388082c55113ee2c8777b1c446",
+      "size_bytes": 191433,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_141751gui_Dogbone_Monza_4D_865.7MHz_0.643m_Soil_(Wet)_22.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_143228gui_Dogbone_Monza_4D_865.7MHz_0.9m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "d798503a748b5bd59527acbe4d70de86d82edb03",
+      "size_bytes": 195109,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_143228gui_Dogbone_Monza_4D_865.7MHz_0.9m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_145104gui_Dogbone_Monza_4D_865.7MHz_1.198m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "f0c81e8348c6ff5ef9ba91259992f4efaa7f4368",
+      "size_bytes": 4088,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_145104gui_Dogbone_Monza_4D_865.7MHz_1.198m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-07a/20250307_151605gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Wet)_29.0dBm.csv",
+      "blob_sha": "5a2bdbaff0cdfc55e88e019f1419a3592a940815",
+      "size_bytes": 206480,
+      "session": "2025-03-07a",
+      "local_path": "data/raw/2025-03-07a/20250307_151605gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Wet)_29.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_165155gui_Dogbone_Monza_4D_865.7MHz_1.538m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "7db01e164de0f204b576668eacbdb22df7b8688e",
+      "size_bytes": 3003333,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_165155gui_Dogbone_Monza_4D_865.7MHz_1.538m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_171205gui_Dogbone_Monza_4D_865.7MHz_0.204m_Soil_(Wet)_25.0dBm.csv",
+      "blob_sha": "b3b9dadcde3b761126ad03b772792df0cd94dc69",
+      "size_bytes": 196007,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_171205gui_Dogbone_Monza_4D_865.7MHz_0.204m_Soil_(Wet)_25.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_172026gui_Dogbone_Monza_4D_865.7MHz_0.348m_Soil_(Wet)_24.0dBm.csv",
+      "blob_sha": "44ad981cdc071298695017b54b08ceeed2abea3a",
+      "size_bytes": 197028,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_172026gui_Dogbone_Monza_4D_865.7MHz_0.348m_Soil_(Wet)_24.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_172916gui_Dogbone_Monza_4D_865.7MHz_0.431m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "eb74e69a9701e699c1653a8262e525473c1a96e5",
+      "size_bytes": 8589,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_172916gui_Dogbone_Monza_4D_865.7MHz_0.431m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_173750gui_Dogbone_Monza_4D_865.7MHz_0.462m_Soil_(Wet)_20.0dBm.csv",
+      "blob_sha": "cc126ae2ceb4b74e4d4c7ba9a90bbc267e0385f3",
+      "size_bytes": 194829,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_173750gui_Dogbone_Monza_4D_865.7MHz_0.462m_Soil_(Wet)_20.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_174559gui_Dogbone_Monza_4D_865.7MHz_0.491m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "2aa1013f29a67617e74c757d2d3e3dc07bc9e51e",
+      "size_bytes": 197000,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_174559gui_Dogbone_Monza_4D_865.7MHz_0.491m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_175531gui_Dogbone_Monza_4D_865.7MHz_0.531m_Soil_(Wet)_18.0dBm.csv",
+      "blob_sha": "6e76f0f6aaa0d5393906664d3fc112e330e23d05",
+      "size_bytes": 192918,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_175531gui_Dogbone_Monza_4D_865.7MHz_0.531m_Soil_(Wet)_18.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_180428gui_Dogbone_Monza_4D_865.7MHz_0.559m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "27ddf9cf39d2751249c5bf1173da582b0ecd50f1",
+      "size_bytes": 194377,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_180428gui_Dogbone_Monza_4D_865.7MHz_0.559m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_181522gui_Dogbone_Monza_4D_865.7MHz_0.601m_Soil_(Wet)_25.0dBm.csv",
+      "blob_sha": "d6041888dc5b932ec12c8ab3603c60d5f778ad6c",
+      "size_bytes": 197695,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_181522gui_Dogbone_Monza_4D_865.7MHz_0.601m_Soil_(Wet)_25.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_182623gui_Dogbone_Monza_4D_865.7MHz_0.8m_Soil_(Wet)_27.0dBm.csv",
+      "blob_sha": "72cde7e7e23a442a4634fe1011310f1b2339cb25",
+      "size_bytes": 196087,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_182623gui_Dogbone_Monza_4D_865.7MHz_0.8m_Soil_(Wet)_27.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_191502gui_Dogbone_Monza_4D_865.7MHz_1.1m_Soil_(Wet)_10.0dBm.csv",
+      "blob_sha": "db07a28b3b7a1fd9e2a6847426c5d69369e07354",
+      "size_bytes": 12206,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_191502gui_Dogbone_Monza_4D_865.7MHz_1.1m_Soil_(Wet)_10.0dBm.csv"
+    },
+    {
+      "source_path": "data/01-Preliminary-Measurments/2025-03-11b/20250311_193218gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Wet)_29.0dBm.csv",
+      "blob_sha": "de9579db09d56eaf9aa0b6a4c90013cf417787ce",
+      "size_bytes": 198760,
+      "session": "2025-03-11b",
+      "local_path": "data/raw/2025-03-11b/20250311_193218gui_Dogbone_Monza_4D_865.7MHz_1.543m_Soil_(Wet)_29.0dBm.csv"
+    }
+  ]
+}
